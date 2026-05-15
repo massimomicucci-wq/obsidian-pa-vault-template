@@ -1,0 +1,19 @@
+# Obsidian workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# File personali non condividere
+.obsidian/graph.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Contenuti riservati (mai committare)
+01_Clienti/*/
+02_Dossier/*/
+03_Parlamento/Contatti_Istituzionali/
+
+# Backup locali
+*.bak
+
